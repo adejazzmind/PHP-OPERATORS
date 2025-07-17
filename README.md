@@ -1,0 +1,1 @@
+In PHP, operators are special symbols or keywords that perform operations on variables and values. They can be used for arithmetic, assignment, comparison, logical, string, array, and other operations. Essentially, they are used to manipulate data and evaluate conditions. 
